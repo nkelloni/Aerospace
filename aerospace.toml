@@ -114,7 +114,7 @@ alt-c = 'workspace C'
 alt-d = 'workspace D'
 alt-e = 'workspace E'
 alt-f = 'workspace F'
-alt-g = 'workspace G' 
+alt-g = 'workspace G'
 alt-i = 'workspace I'
 alt-m = 'workspace M'
 alt-n = 'workspace N'
@@ -184,8 +184,8 @@ alt-cmd-j = ['split vertical', 'mode main']
 
 [workspace-to-monitor-force-assignment]
 
-Q = 'Built-in Retina Display'
-W = 'Built-in Retina Display'
+Q = ['Built-in Retina Display', 1]
+W = ['ASUS VG35V', 2]
 
 #[[on-window-detected]]
 #    if.app-id = "com.googlecode.iterm2"
